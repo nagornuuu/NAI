@@ -1,0 +1,9 @@
+Yes,Workday,Morning,Clear
+No,Workday,Lunch,Clear
+No,Weekend,Morning,Clear
+Yes,Workday,Evening,Rainy
+Yes,Workday,Morning,Rainy
+No,Weekend,Lunch,Rainy
+Yes,Workday,Morning,Snowy
+No,Weekend,Lunch,Snowy
+Yes,Weekend,Evening,Snowy
